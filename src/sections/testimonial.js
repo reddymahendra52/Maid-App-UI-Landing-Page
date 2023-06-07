@@ -13,7 +13,7 @@ import Avatar4 from "assets/testimonial/avatar-1.png";
 const data = [
   {
     id: 1,
-    title: "Flexible and Reliable Work Opportunities",
+    title: "Flexible and Reliable Work Opportunities Vihsal",
     description:
       "As a worker on the Maid App, I have found flexible and reliable work opportunities. The platform allows me to choose assignments that align with my schedule and preferences.",
     avatar: Avatar1,
